@@ -1,1 +1,1 @@
-![Screenshot](gym-fit-thumbnail.png)
+![Screenshot](gym-fit-thumbnail-2.png)
